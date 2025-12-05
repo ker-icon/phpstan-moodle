@@ -1,5 +1,5 @@
 {
-  "name": "micaherne/phpstan-moodle",
+  "name": "ker-icon/phpstan-moodle",
   "description": "Rules and utilities for using PHPStan on Moodle code.",
   "type": "phpstan-extension",
   "require": {
